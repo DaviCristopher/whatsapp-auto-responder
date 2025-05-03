@@ -8,7 +8,7 @@ module.exports = {
   
   // AI provider settings
   aiProvider: 'gemini',         // Options: 'gemini', 'ollama'
-  aiApiKey: process.env.GEMINI_API_KEY || 'AIzaSyBTY-P2vtgVYLHDsx2cUUE5GXuczXdCEbE',
+  aiApiKey: process.env.GEMINI_API_KEY || 'AIzaSyA3VJV7gr5afm6CNCtc-oiovID_KZCXF4w',
   aiModel: 'gemini-flash',      // Updated to Gemini 2.0 Flash
   geminiApiVersion: 'v1',       // Using v1 API version
   
